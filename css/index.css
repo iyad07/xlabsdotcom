@@ -65,6 +65,7 @@ p{
 
 /* Added: Global transition for links and buttons */
 a, button {
+   color: var(--background-light);
   transition: all 0.3s ease;
 }
 
